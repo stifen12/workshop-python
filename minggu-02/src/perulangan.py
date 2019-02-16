@@ -1,0 +1,1 @@
+>>> x = "Gunadarma"    >>> while x:                ...     print x, ' '                ...     x = x[1:]    ...    Gunadarma    unadarma    nadarma    adarma    darma    arma    rma    ma    a

@@ -1,0 +1,1 @@
+>>> s='ini sebuah string' >>> for a in s: ...         print a, ... i n i s e b u a h s t r i n g >>> t=1,'aku',5.6,6666666,['a','b','c'] >>> for a in t: ...         print a, ... 1 aku 5.6 6666666 ['a', 'b', 'c'] >>> for a in t[4]: ...         print a, ... a b c 
